@@ -1,0 +1,5 @@
+export(ab.arglist, ab.create, ab.model, ab.predict, gensemble, mksampsize, predict.gensemble, print.gensemble)
+exportClasses(
+    "AbstractModel",
+     "gensemble" 
+)
